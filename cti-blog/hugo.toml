@@ -1,6 +1,4 @@
 baseURL = 'https://manereyes.github.io/cti-blog.github.io/'
-relativeURLs = false
-canonifyURLs = true
 languageCode = 'en-us'
 title = 'Coffee, Tails & Insights Blog'
 theme='hugo-coder'
