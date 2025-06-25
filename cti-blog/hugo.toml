@@ -1,4 +1,5 @@
-baseURL = 'https://manereyes.github.io/'
+baseURL = 'https://manereyes.github.io/cti-blog.github.io/'
+relativeURL=true
 languageCode = 'en-us'
 title = 'Coffee, Tails & Insights Blog'
 theme='hugo-coder'
