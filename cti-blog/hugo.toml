@@ -1,0 +1,45 @@
+baseURL = 'https://manereyes.github.io/'
+languageCode = 'en-us'
+title = 'Coffee, Tails & Insights Blog'
+theme='hugo-coder'
+
+[params]
+  author = "José Reyes"
+  title = "Welcome to CTI – Coffee, Tails and Insights"
+  description = "A raccoon fueled by curiosity and latte."
+  info = "Threat Hunting | CTI | Coffee-powered Analyst"
+  keywords="blog,developer,personal,cybersecurity"
+  avatarurl = "images/avatar.jpg"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/manereyes"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 3
+  url = "https://x.com/josereyes_ark"
+
+[[params.social]]
+  name = "Youtube"
+  icon = "fa-brands fa-youtube fa-2x"
+  weight = 1
+  url = "https://www.youtube.com/@josereyes_ark"
+
+  [[params.social]]
+  name = "Linedin"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/manuelrl97/"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
